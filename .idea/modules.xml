@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springcloud-api/springcloud-api.iml" filepath="$PROJECT_DIR$/springcloud-api/springcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-client-3355/springcloud-config-client-3355.iml" filepath="$PROJECT_DIR$/springcloud-config-client-3355/springcloud-config-client-3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-dept-8001/springcloud-config-dept-8001.iml" filepath="$PROJECT_DIR$/springcloud-config-dept-8001/springcloud-config-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-eureka-7001/springcloud-config-eureka-7001.iml" filepath="$PROJECT_DIR$/springcloud-config-eureka-7001/springcloud-config-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-server-3344/springcloud-config-server-3344.iml" filepath="$PROJECT_DIR$/springcloud-config-server-3344/springcloud-config-server-3344.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-dept-8180/springcloud-consumer-dept-8180.iml" filepath="$PROJECT_DIR$/springcloud-consumer-dept-8180/springcloud-consumer-dept-8180.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-dept-feign/springcloud-consumer-dept-feign.iml" filepath="$PROJECT_DIR$/springcloud-consumer-dept-feign/springcloud-consumer-dept-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-hystrix-dashboard/springcloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/springcloud-consumer-hystrix-dashboard/springcloud-consumer-hystrix-dashboard.iml" />

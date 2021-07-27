@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb8d87a9-b48c-4d5a-941c-bc742ea8b48a" name="Default Changelist" comment="" />
+    <list default="true" id="fb8d87a9-b48c-4d5a-941c-bc742ea8b48a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-client-3355/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-client-3355/springcloud-config-client-3355.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-client-3355/src/main/java/com/study/springcloud/ConfigClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-client-3355/src/main/java/com/study/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-client-3355/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-dept-8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-dept-8001/springcloud-config-dept-8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-dept-8001/src/main/java/com/study/springcloud/SpringCloud_config_dept_8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-dept-8001/src/main/java/com/study/springcloud/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-dept-8001/src/main/java/com/study/springcloud/mapper/DeptMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-dept-8001/src/main/java/com/study/springcloud/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-dept-8001/src/main/java/com/study/springcloud/service/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-dept-8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-dept-8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-dept-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-eureka-7001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-eureka-7001/springcloud-config-eureka-7001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-eureka-7001/src/main/java/com/study/springcloud/Springcloud_config_eureka_7001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-eureka-7001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-eureka-7001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-server-3344/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-server-3344/springcloud-config-server-3344.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-server-3344/src/main/java/com/study/springcloud/Config_Server_3344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-config-server-3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +89,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -57,10 +97,11 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-provider-dept-hystrix-8001/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-config-dept-8001/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -75,11 +116,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springcloud-config-dept-8001/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springcloud-config-dept-8001/src" />
+      <recent name="$PROJECT_DIR$/springcloud-config-eureka-7001/src" />
       <recent name="$PROJECT_DIR$/springcloud-provider-dept-hystrix-8001/src" />
       <recent name="$PROJECT_DIR$/springcloud-consumer-dept-feign/src/main/java" />
-      <recent name="$PROJECT_DIR$/springcloud-consumer-dept-feign/src/main/java/haust/myrule" />
-      <recent name="$PROJECT_DIR$/springcloud-provider-depts8003/src/main/resources" />
-      <recent name="$PROJECT_DIR$/springcloud-provider-depts8003/src/main/java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources/mybatis/mapper" />
@@ -108,7 +149,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ZuulApplication_9527">
+  <component name="RunManager" selected="Spring Boot.SpringCloud_config_dept_8001">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -122,28 +163,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeptConsumerDashboard_9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-consumer-hystrix-dashboard" />
+    <configuration name="ConfigClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-client-3355" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.study.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springcloud.DeptConsumerDashboard_9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springcloud.ConfigClient" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeptConsumer_8180" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-consumer-dept-8180" />
+    <configuration name="Config_Server_3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-server-3344" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.study.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springcloud.DeptConsumer_8180" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springcloud.Config_Server_3344" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,14 +198,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeptProvider_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="DeptProvider_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springcloud-provider-dept-8001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springcloud.DeptProvider_8001" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -184,49 +219,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaServer_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-eureka-7001" />
+    <configuration name="SpringCloud_config_dept_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-dept-8001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.study.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springcloud.EurekaServer_7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springcloud.SpringCloud_config_dept_8001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZuulApplication_9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-zuul" />
+    <configuration name="Springcloud_config_dept_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-dept-8001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.study.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springcloud.ZuulApplication_9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springcloud.Springcloud_config_dept_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springcloud_config_eureka_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-eureka-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springcloud.Springcloud_config_eureka_7001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Spring Boot.DeptProviderHystrix_8001 " />
-      <item itemvalue="Spring Boot.EurekaServer_7001" />
-      <item itemvalue="Spring Boot.DeptConsumer_8180" />
       <item itemvalue="Spring Boot.DeptProvider_8002" />
       <item itemvalue="Spring Boot.DeptProvider_8003" />
-      <item itemvalue="Spring Boot.DeptConsumerDashboard_9001" />
-      <item itemvalue="Spring Boot.ZuulApplication_9527" />
+      <item itemvalue="Spring Boot.Config_Server_3344" />
+      <item itemvalue="Spring Boot.ConfigClient" />
+      <item itemvalue="Spring Boot.Springcloud_config_eureka_7001" />
       <item itemvalue="Spring Boot.DeptProvider_8001" />
+      <item itemvalue="Spring Boot.Springcloud_config_dept_8001" />
+      <item itemvalue="Spring Boot.SpringCloud_config_dept_8001" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ZuulApplication_9527" />
-        <item itemvalue="Spring Boot.DeptProvider_8001" />
-        <item itemvalue="Spring Boot.DeptConsumer_8180" />
-        <item itemvalue="Spring Boot.EurekaServer_7001" />
-        <item itemvalue="Spring Boot.DeptConsumerDashboard_9001" />
+        <item itemvalue="Spring Boot.SpringCloud_config_dept_8001" />
+        <item itemvalue="Spring Boot.Springcloud_config_eureka_7001" />
+        <item itemvalue="Spring Boot.Config_Server_3344" />
+        <item itemvalue="Spring Boot.Springcloud_config_dept_8001" />
+        <item itemvalue="Spring Boot.ConfigClient" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +297,7 @@
       <workItem from="1627349206483" duration="4321000" />
       <workItem from="1627353713496" duration="166000" />
       <workItem from="1627353918258" duration="7416000" />
-      <workItem from="1627372445873" duration="9472000" />
+      <workItem from="1627372445873" duration="21201000" />
     </task>
     <servers />
   </component>
@@ -265,5 +314,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
